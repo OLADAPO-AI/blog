@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button'
 function HomePage() {
-  return <div>page</div>
+  return <div></div>
 }
 
 export default HomePage
